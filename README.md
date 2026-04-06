@@ -3,7 +3,7 @@
 ## 1. Tela do Dashboard
 A tela escolhida para o teste foi a tela inicial (dashboard), responsável por concentrar a maior parte das informações do sistema.
 
-
+![dashboard](image.png)
 
 ---
 
